@@ -43,7 +43,7 @@ java App
 
 - Click one of the buttons: **Rock**, **Paper**, or **Scissors**.
 - The computer makes a random move.
-- A dialog shows the result: 🎉 _Player Wins_, 💻 _Computer Wins_, or 🤝 _Draw_.
+- A dialog shows the result:  _Player Wins_,  _Computer Wins_, or  _Draw_.
 - Scores are updated after each round.
 - Click **"Try Again?"** to continue playing.
 
@@ -68,27 +68,20 @@ java App
 
 ## 📸 Screenshot (Optional)
 
-> _Add a screenshot here if you'd like!_  
-> You can take one and drag it into this README or use:  
-> `![Screenshot](path/to/screenshot.png)`
+> Here is a screenshot of my project!_  
+>![Screenshot1](ss1.png)
+>![Screenshot2](ss2.png)
+
 
 ---
-
-## 📌 Future Enhancements
-
-- 🎵 Add sound effects  
-- 🖼️ Use images instead of text buttons  
-- 🧠 Add a smarter AI option  
-- 🧾 Display game history or summary  
-
+## 💡 What I learnt from this project
+i. Basics of JFrame
+ii. Abstract Window Toolkit
+iii. 
 ---
 
 ## 🙌 Credits
 
-Made with 💻 and ☕ by [Your Name]
+Made with java ☕️ and by Sachin
 
 ---
-
-## 📜 License
-
-This project is open-source and free to use under the MIT License.
