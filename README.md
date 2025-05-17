@@ -51,7 +51,7 @@ java App
 
 ## ⚙️ Technologies Used
 
-- 🟨 Java
+- ☕️ Java
 - 🖥️ Java Swing (GUI)
 - 🎲 Random class for computer moves
 
