@@ -66,7 +66,7 @@ java App
 
 ---
 
-## 📸 Screenshot (Optional)
+## 📸 Screenshot 
 
 > Here is a screenshot of my project!_  
 >![Screenshot1](ss1.png)
@@ -75,9 +75,9 @@ java App
 
 ---
 ## 💡 What I learnt from this project
-i. Basics of JFrame
-ii. Abstract Window Toolkit
-iii. 
+i. Basics of JFrame<br>
+ii. Abstract Window Toolkit<br>
+iii. Awt EventListener<br>
 ---
 
 ## 🙌 Credits
